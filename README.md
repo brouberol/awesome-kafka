@@ -35,6 +35,7 @@ Table of Contents
 
    * http://www.confluent.io/making-sense-of-stream-processing-ebook - Making sense of stream processing
    * http://shop.oreilly.com/product/0636920032175.do - Designing Data-Intensive Applications
+   * http://shop.oreilly.com/product/0636920044123.do - Kafka, the Definitive Guide
 
 ## Papers
 
